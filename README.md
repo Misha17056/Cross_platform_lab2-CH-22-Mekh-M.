@@ -1,6 +1,6 @@
 # my_flutter_app
 
-A new Flutter project.
+Розробити застосунок для перегляду погоди
 
 ## Getting Started
 
